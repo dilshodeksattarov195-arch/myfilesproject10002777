@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercync",
+        "uuid": 4734785,
+        "checksum": "xi82r"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
